@@ -6,7 +6,8 @@ PyBer is expanding business rapidly across several cities. This report will anal
 The city and driver data for 2019 were deeply analysed and statistical models were generated to each Urban, Suburban and Rural cities based on the number of rides, number of drivers and the fares collected. 
 
 The tabel below represents the summary of the findings per city type.
-![summary_table](./analysis/Summary_table.png)
+
+![summary_table](./analysis/Summary_table.PNG)
 
 From the table, we can come up with two main findings:
 
